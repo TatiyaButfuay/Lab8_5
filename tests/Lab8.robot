@@ -10,3 +10,7 @@ Open Browser To Login Page
     
     Create Webdriver    Chrome    options=${chrome_options}
     Go To    https://computing.kku.ac.th
+
+    
+*** Test Case ***
+Open Browser To Login Page
