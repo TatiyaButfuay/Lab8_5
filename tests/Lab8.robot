@@ -13,4 +13,5 @@ Open Browser To Login Page
 
     
 *** Test Cases ***
-Open Browser To Login Page
+Open CP website
+    Open Browser To Login Page
