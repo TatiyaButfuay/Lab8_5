@@ -12,5 +12,5 @@ Open Browser To Login Page
     Go To    https://computing.kku.ac.th
 
     
-*** Test Case ***
+*** Test Cases ***
 Open Browser To Login Page
